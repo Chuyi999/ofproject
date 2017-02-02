@@ -14,6 +14,7 @@ void ofApp::update(){
 void ofApp::draw(){
     ofSetColor(0,0,255);
     ofDrawCircle(120, 120, 30);
+
 }
 
 //--------------------------------------------------------------
